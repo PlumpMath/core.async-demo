@@ -1,0 +1,211 @@
+Putting Fibonacci value 0 on the channel.
+----------------------- Took: Fri Jul 31 2015 17:14:18 GMT-0500 (CDT)
+----------------------- Took: 0
+Putting Fibonacci value 1 on the channel.
+----------------------- Took: 1
+Putting Fibonacci value 2 on the channel.
+----------------------- Took: 1
+Putting Fibonacci value 3 on the channel.
+----------------------- Took: 2
+Putting Fibonacci value 4 on the channel.
+----------------------- Took: 3
+Putting Fibonacci value 5 on the channel.
+----------------------- Took: 5
+Putting Fibonacci value 6 on the channel.
+----------------------- Took: 8
+Putting Fibonacci value 7 on the channel.
+----------------------- Took: 13
+Putting Fibonacci value 8 on the channel.
+----------------------- Took: 21
+Putting Fibonacci value 9 on the channel.
+----------------------- Took: 34
+Putting Fibonacci value 10 on the channel.
+----------------------- Took: 55
+Putting Fibonacci value 11 on the channel.
+----------------------- Took: 89
+Putting Fibonacci value 12 on the channel.
+----------------------- Took: 144
+Putting Fibonacci value 13 on the channel.
+----------------------- Took: 233
+Putting Fibonacci value 14 on the channel.
+----------------------- Took: 377
+Putting Fibonacci value 15 on the channel.
+----------------------- Took: 610
+Putting Fibonacci value 16 on the channel.
+----------------------- Took: 987
+Putting Fibonacci value 17 on the channel.
+----------------------- Took: 1597
+Putting Fibonacci value 18 on the channel.
+----------------------- Took: 2584
+Putting Fibonacci value 19 on the channel.
+----------------------- Took: 4181
+Putting Fibonacci value 20 on the channel.
+----------------------- Took: 6765
+Putting Fibonacci value 21 on the channel.
+----------------------- Took: 10946
+Putting Fibonacci value 22 on the channel.
+----------------------- Took: 17711
+Putting Fibonacci value 23 on the channel.
+----------------------- Took: 28657
+Putting Fibonacci value 24 on the channel.
+----------------------- Took: 46368
+Putting Fibonacci value 25 on the channel.
+----------------------- Took: 75025
+Putting Fibonacci value 26 on the channel.
+----------------------- Took: 121393
+Putting Fibonacci value 27 on the channel.
+----------------------- Took: 196418
+Putting Fibonacci value 28 on the channel.
+----------------------- Took: 317811
+Putting Fibonacci value 29 on the channel.
+----------------------- Took: 514229
+Putting Fibonacci value 30 on the channel.
+----------------------- Took: 832040
+Putting Fibonacci value 31 on the channel.
+----------------------- Took: 1346269
+Putting Fibonacci value 32 on the channel.
+----------------------- Took: 2178309
+Putting Fibonacci value 33 on the channel.
+----------------------- Took: 3524578
+Putting Fibonacci value 34 on the channel.
+----------------------- Took: 5702887
+Putting Fibonacci value 35 on the channel.
+----------------------- Took: 9227465
+Putting Fibonacci value 36 on the channel.
+----------------------- Took: 14930352
+Putting Fibonacci value 37 on the channel.
+----------------------- Took: 24157817
+Putting Fibonacci value 38 on the channel.
+----------------------- Took: 39088169
+Putting Fibonacci value 39 on the channel.
+----------------------- Took: 63245986
+Putting Fibonacci value 40 on the channel.
+----------------------- Took: 102334155
+Putting Fibonacci value 41 on the channel.
+----------------------- Took: 165580141
+Putting Fibonacci value 42 on the channel.
+----------------------- Took: 267914296
+Putting Fibonacci value 43 on the channel.
+----------------------- Took: 433494437
+Putting Fibonacci value 44 on the channel.
+----------------------- Took: 701408733
+Putting Fibonacci value 45 on the channel.
+----------------------- Took: 1134903170
+Putting Fibonacci value 46 on the channel.
+----------------------- Took: 1836311903
+Putting Fibonacci value 47 on the channel.
+----------------------- Took: 2971215073
+Putting Fibonacci value 48 on the channel.
+----------------------- Took: 4807526976
+Putting Fibonacci value 49 on the channel.
+----------------------- Took: 7778742049
+----------------------- Took: Fri Jul 31 2015 17:14:18 GMT-0500 (CDT)
+Putting Fibonacci value 50 on the channel.
+----------------------- Took: 12586269025
+Putting Fibonacci value 51 on the channel.
+----------------------- Took: 20365011074
+Putting Fibonacci value 52 on the channel.
+----------------------- Took: 32951280099
+Putting Fibonacci value 53 on the channel.
+----------------------- Took: 53316291173
+Putting Fibonacci value 54 on the channel.
+----------------------- Took: 86267571272
+Putting Fibonacci value 55 on the channel.
+----------------------- Took: 139583862445
+Putting Fibonacci value 56 on the channel.
+----------------------- Took: 225851433717
+Putting Fibonacci value 57 on the channel.
+----------------------- Took: 365435296162
+Putting Fibonacci value 58 on the channel.
+----------------------- Took: 591286729879
+Putting Fibonacci value 59 on the channel.
+----------------------- Took: 956722026041
+Putting Fibonacci value 60 on the channel.
+----------------------- Took: 1548008755920
+Putting Fibonacci value 61 on the channel.
+----------------------- Took: 2504730781961
+Putting Fibonacci value 62 on the channel.
+----------------------- Took: 4052739537881
+Putting Fibonacci value 63 on the channel.
+----------------------- Took: 6557470319842
+Putting Fibonacci value 64 on the channel.
+----------------------- Took: 10610209857723
+Putting Fibonacci value 65 on the channel.
+----------------------- Took: 17167680177565
+Putting Fibonacci value 66 on the channel.
+----------------------- Took: 27777890035288
+Putting Fibonacci value 67 on the channel.
+----------------------- Took: 44945570212853
+Putting Fibonacci value 68 on the channel.
+----------------------- Took: 72723460248141
+Putting Fibonacci value 69 on the channel.
+----------------------- Took: 117669030460994
+Putting Fibonacci value 70 on the channel.
+----------------------- Took: 190392490709135
+Putting Fibonacci value 71 on the channel.
+----------------------- Took: 308061521170129
+Putting Fibonacci value 72 on the channel.
+----------------------- Took: 498454011879264
+Putting Fibonacci value 73 on the channel.
+----------------------- Took: 806515533049393
+Putting Fibonacci value 74 on the channel.
+----------------------- Took: 1304969544928657
+Putting Fibonacci value 75 on the channel.
+----------------------- Took: 2111485077978050
+Putting Fibonacci value 76 on the channel.
+----------------------- Took: 3416454622906707
+Putting Fibonacci value 77 on the channel.
+----------------------- Took: 5527939700884757
+Putting Fibonacci value 78 on the channel.
+----------------------- Took: 8944394323791464
+Putting Fibonacci value 79 on the channel.
+----------------------- Took: 14472334024676220
+Putting Fibonacci value 80 on the channel.
+----------------------- Took: 23416728348467684
+Putting Fibonacci value 81 on the channel.
+----------------------- Took: 37889062373143900
+Putting Fibonacci value 82 on the channel.
+----------------------- Took: 61305790721611580
+Putting Fibonacci value 83 on the channel.
+----------------------- Took: 99194853094755490
+Putting Fibonacci value 84 on the channel.
+----------------------- Took: 160500643816367070
+Putting Fibonacci value 85 on the channel.
+----------------------- Took: 259695496911122560
+Putting Fibonacci value 86 on the channel.
+----------------------- Took: 420196140727489660
+Putting Fibonacci value 87 on the channel.
+----------------------- Took: 679891637638612200
+Putting Fibonacci value 88 on the channel.
+----------------------- Took: 1100087778366101900
+Putting Fibonacci value 89 on the channel.
+----------------------- Took: 1779979416004714000
+Putting Fibonacci value 90 on the channel.
+----------------------- Took: 2880067194370816000
+Putting Fibonacci value 91 on the channel.
+----------------------- Took: 4660046610375530000
+Putting Fibonacci value 92 on the channel.
+----------------------- Took: 7540113804746346000
+Putting Fibonacci value 93 on the channel.
+----------------------- Took: 12200160415121877000
+Putting Fibonacci value 94 on the channel.
+----------------------- Took: 19740274219868226000
+Putting Fibonacci value 95 on the channel.
+----------------------- Took: 31940434634990100000
+Putting Fibonacci value 96 on the channel.
+----------------------- Took: 51680708854858330000
+Putting Fibonacci value 97 on the channel.
+----------------------- Took: 83621143489848430000
+Putting Fibonacci value 98 on the channel.
+----------------------- Took: 135301852344706760000
+Putting Fibonacci value 99 on the channel.
+----------------------- Took: 218922995834555200000
+----------------------- Took: Fri Jul 31 2015 17:14:19 GMT-0500 (CDT)
+Putting Fibonacci value 100 on the channel.
+----------------------- Took: 354224848179262000000
+----------------------- Took: Fri Jul 31 2015 17:14:19 GMT-0500 (CDT)
+----------------------- Took: Fri Jul 31 2015 17:14:20 GMT-0500 (CDT)
+----------------------- Took: Fri Jul 31 2015 17:14:20 GMT-0500 (CDT)
+----------------------- Took: Fri Jul 31 2015 17:14:21 GMT-0500 (CDT)
+----------------------- Took: Fri Jul 31 2015 17:14:21 GMT-0500 (CDT)
+The channel is closed.
