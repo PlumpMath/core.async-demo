@@ -24,7 +24,7 @@ node app.js
 
 ## License
 
-ISC License
+[ISC License]
 
 [Matt Keas]:https://twitter.com/matthiasak
 [demo]:https://goo.gl/NPaSi4
@@ -32,3 +32,4 @@ ISC License
 [big game]:https://twitter.com/matthiasak/status/623895714058272773
 [Leiningen]:http://leiningen.org/
 [Node.js]:https://nodejs.org/
+[ISC License]:LICENSE.md
