@@ -4,7 +4,7 @@
   :url "https://github.com/oakmac/core.async-demo"
   :license {
     :name "ISC License"
-    :url "https://github.com/oakmac/core.async-demo/LICENSE.md"
+    :url "https://github.com/oakmac/core.async-demo/blob/master/LICENSE.md"
     :distribution :repo }
 
   :dependencies [
